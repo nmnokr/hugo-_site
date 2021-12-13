@@ -1,4 +1,4 @@
-[submodule "themes/docport"]
+[submodule "themes/hugo-whisper-theme"]
 	path = themes/docport
 	url = https://github.com/vjeantet/hugo-theme-docport.git
 [submodule "nmnokr.github.io"]
