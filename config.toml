@@ -1,16 +1,5 @@
+baseURL = "nmnokr.github.io/"
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-themesDir = "themes"
-theme = "hugo-whisper-theme"
-baseURL = "https://nmnokr.github.io/"
+theme = "hugo-book"
 publishDir = "nmnokr.github.io"
-
-[[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-
-[[menu.main]]
-    name = "Docs"
-    url = "/docs/"
-    weight = 2
