@@ -1,3 +1,9 @@
+[submodule "themes/docport"]
+	path = themes/docport
+	url = https://github.com/vjeantet/hugo-theme-docport.git
 [submodule "nmnokr.github.io"]
 	path = nmnokr.github.io
 	url = git@github.com:nmnokr/nmnokr.github.io.git
+[submodule "themes/hugo-book"]
+	path = themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book

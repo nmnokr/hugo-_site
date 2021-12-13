@@ -1,16 +1,4 @@
+baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-themesDir = "themes"
-theme = "hugo-whisper-theme"
-baseURL = "https://nmnokr.github.io/"
-publishDir = "nmnokr.github.io"
-
-[[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-
-[[menu.main]]
-    name = "Docs"
-    url = "/docs/"
-    weight = 2
+theme = "hugo-book"
